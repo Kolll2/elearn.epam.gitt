@@ -1,5 +1,10 @@
 # elearn.epam.gitt
 
+## Полезные ссылки
+
+https://habr.com/ru/post/106912/
+
+
 I Can Win 
 
 Установите git и сгенерируйте пару ssh ключей. Авторизуйте публичный ключ на github.com.
