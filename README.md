@@ -2,8 +2,10 @@
 
 ## Полезные ссылки
 
+
 https://habr.com/ru/post/106912/
 
+https://learngitbranching.js.org/?locale=ru_RU
 
 I Can Win 
 
